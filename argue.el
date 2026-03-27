@@ -84,3 +84,7 @@ New-NetFirewallRule `
     -Description "Broad block of common Microsoft 365 IP ranges (may affect other Microsoft services)."
 
 Write-Host "Optional IP-based firewall rule created."
+
+#https://linkstorage.linkfire.com/medialinks/images/663d2377-6547-4253-b79e-5bec1ef84830/artwork-600x315.jpg
+#https://www.google.com/search?vsrid=COWGrc3g78nX5QEQAhgBIiQ5MGVmYzhjZS02M2E4LTQ5MDMtODZiNC00OTg4ZDhiMjdkNTUyeyICcmQoFUJzCi5sZmUtZHVtbXk6OTAxNjA2OTctNzI0YS00MzE5LTgzZTktYjYzMWE2MTdkYjZkEkEKPy9ibnMvcmQvYm9yZy9yZC9ibnMvbGVucy1mcm9udGVuZC1hcGkvcHJvZC5sZW5zLWZyb250ZW5kLWFwaS8xNziPz-r088CTAw&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABENAHGOIEJQAAgD8&udm=26&lns_mode=un&vsdim=976,610&gsessionid=bJqPTBCHlbTmjEwDdc0ea4-WZ4uFE-djro9_raQiTvOjPy7wppLyGg&lsessionid=-Jov9wbHTh3ycR-cCsa-EhRKIeiNQGPTLdRTQcpeuJjSs49W-FJtxQ&lns_surface=26&authuser=0&lns_vfs=e&qsubts=1774642882116&hl=en-GB#sv=CAMSVhoyKhBlLTVtclF6Nm5xZkR6aWNNMg41bXJRejZucWZEemljTToONm5xcGFFUlZJZDhubU0gBCocCgZtb3NhaWMSEGUtNW1yUXo2bnFmRHppY00YADABGAcgyJ31sQVKCBABGAEgASgB
+#https://www.melodicmag.com/wp-content/uploads/2019/09/camila-cabello-liar-shameless-romance.jpg
