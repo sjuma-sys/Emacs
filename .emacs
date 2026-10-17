@@ -6,7 +6,7 @@
 (global-display-line-numbers-mode t)
 (global-visual-line-mode t)
 (setq ispell-dictionary "british")
-
+https://mab.to/t/9CULFglL1fp/eu1
 ;;; --- Package Management & Repositories ---
 (require 'package)
 (setq package-archives
