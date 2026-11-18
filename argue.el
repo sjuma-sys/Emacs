@@ -1,7 +1,7 @@
 # ================================
 # BLOCK MICROSOFT ACCOUNT / AAD SIGN-IN
 # ================================
-https://mab.to/t/MQOZ4eSqVD4/eu1
+https://mab.to/t/vYNyUld2SZJ/eu1
 # Block Microsoft accounts (NoConnectedUser = 3)
 New-Item -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Force | Out-Null
 New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" `
